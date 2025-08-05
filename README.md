@@ -29,7 +29,7 @@ Herramientas: `Git`, `GitHub`, `MobaXterm`, `Blender`, `Cura`
 Áreas de Interés: Criptografía ₿, Ciberseguridad e Inteligencia Artificial
 
 ### 📈 Estadísticas de GitHub
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Apueblar&theme=transparent&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&border=03045E&dates=00B4D8&ring=0077B6&currStreakLabel=023E8A&sideLabels=023E8A&stroke=03045E&fire=FB8500&sideNums=FFB703&currStreakNum=FFB703)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Apueblar&theme=transparent&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&border=03045E&dates=00B4D8&ring=0077B6&currStreakLabel=023E8A&sideLabels=023E8A&stroke=03045E&fire=FB8500&sideNums=FFB703&currStreakNum=FFB703)](https://git.io/streak-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apueblar&layout=compact)
 
