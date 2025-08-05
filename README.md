@@ -5,7 +5,7 @@ Need to do the banner :)
 ## 👋 ¡Hola! Soy Apueblar
 
 🎓 Estudiante en la Universidad de Oviedo (UniOvi)    
-🏫 Egresado del Colegio Corazón de María (Codema)  
+🏫 Egresado del Colegio Corazón de María Gijón (Codema)  
 📍 Gijón, Asturias — El mejor lugar  
 🔐 Apasionado por la ciberseguridad, criptoactivos y la inteligencia artificial
 
@@ -22,9 +22,9 @@ Need to do the banner :)
 - 🧠 Software Engineering: Repositorio con proyectos y prácticas de ingeniería de software en UniOvi.
 
 ### 🛠️ Tecnologías y Herramientas
-Lenguajes: `Java`, `Python`, `C`, `C++`, `C#`, `Matlab` 
+Lenguajes: `Solidity`, `Java`, `Python`, `🇪🇸`, `🇬🇧`, `SQL`, `C`, `C++`, `C#`, `Matlab`
 
-Herramientas: `Git`, `GitHub`, `MobaXterm`
+Herramientas: `Git`, `GitHub`, `MobaXterm`, `Blender`, `Cura`
 
 Áreas de Interés: Criptografía ₿, Ciberseguridad e Inteligencia Artificial
 
