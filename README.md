@@ -1,4 +1,6 @@
-<!--
+<div align="center">
+
+  <!--
 Need to do the banner :)
 [![Apueblar](https://github.com/Apueblar/Apueblar/blob/main/img/banner.png)](https://Apueblar.dev/)
 -->
@@ -32,5 +34,11 @@ Herramientas: `Git`, `GitHub`, `MobaXterm`, `Blender`, `Cura`
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Apueblar&theme=transparent&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&border=03045E&dates=00B4D8&ring=0077B6&currStreakLabel=023E8A&sideLabels=023E8A&stroke=03045E&fire=FB8500&sideNums=FFB703&currStreakNum=FFB703)](https://git.io/streak-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apueblar&layout=compact)
+
+
+### 💪 Frase Motivacional
+!["The market is a device for transferring money from the impatient to the patient" 👨‍💼 Warren Buffett 📈 #Quotes #buythedip #TradingLegends #Quote #HodlStrong 💪 $BTC ,$ETH ,$BNB 📈🚀🌕](Images/Warren_Buffett_quote.png)
+  
+</div>
 
 ### ¡Gracias por visitar mi perfil! 🚀
