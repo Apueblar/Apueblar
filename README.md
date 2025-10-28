@@ -23,6 +23,9 @@
   <a href="https://github.com/Apueblar">
     <img src="https://img.shields.io/github/followers/Apueblar?label=Follow&style=social" alt="GitHub followers">
   </a>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=Apueblar&color=brightgreen&style=flat-square&abbreviated=true" alt="Visitas al perfil">
+  </a>
 </p>
 
 ---
