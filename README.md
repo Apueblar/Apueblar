@@ -16,15 +16,15 @@
 🔐 Apasionado por la ciberseguridad, criptoactivos y la inteligencia artificial
 </p>
 
-<p align="center">
+<p align="center" style="font-size:0;">
   <a href="https://www.linkedin.com/in/alvaropuebla/">
-    <img src="https://img.shields.io/badge/LinkedIn-Álvaro_Puebla%20Ruisánchez-brightgreen?style=plastic" alt="LinkedIn Badge" hspace="5">
-  </a><!--
-  --><a href="https://github.com/Apueblar">
-    <img src="https://img.shields.io/github/followers/Apueblar?label=Follow&style=plastic&color=brightgreen" alt="GitHub followers" hspace="5">
-  </a><!--
-  --><a href="https://github.com/Apueblar">
-    <img src="https://komarev.com/ghpvc/?username=Apueblar&color=brightgreen&style=plastic&abbreviated=true" alt="Visitas al perfil" hspace="5">
+    <img src="https://img.shields.io/badge/LinkedIn-Álvaro_Puebla%20Ruisánchez-brightgreen?style=plastic" alt="LinkedIn Badge" style="margin:0 5px;">
+  </a>
+  <a href="https://github.com/Apueblar">
+    <img src="https://img.shields.io/github/followers/Apueblar?label=Follow&style=plastic&color=brightgreen" alt="GitHub followers" style="margin:0 5px;">
+  </a>
+  <a href="https://github.com/Apueblar">
+    <img src="https://komarev.com/ghpvc/?username=Apueblar&color=brightgreen&style=plastic&abbreviated=true" alt="Visitas al perfil" style="margin:0 5px;">
   </a>
 </p>
 
