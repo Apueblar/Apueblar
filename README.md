@@ -18,13 +18,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvaropuebla/">
-    <img src="https://img.shields.io/badge/LinkedIn-Álvaro_Puebla%20Ruisánchez-brightgreen?style=plastic" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Álvaro_Puebla%20Ruisánchez-brightgreen?style=plastic" alt="LinkedIn Badge" hspace="5">
   </a>
   <a href="https://github.com/Apueblar">
-    <img src="https://img.shields.io/github/followers/Apueblar?label=Follow&style=plastic&color=brightgreen" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/Apueblar?label=Follow&style=plastic&color=brightgreen" alt="GitHub followers" hspace="5">
   </a>
   <a href="https://github.com/Apueblar">
-    <img src="https://komarev.com/ghpvc/?username=Apueblar&color=brightgreen&style=plastic&abbreviated=true" alt="Visitas al perfil">
+    <img src="https://komarev.com/ghpvc/?username=Apueblar&color=brightgreen&style=plastic&abbreviated=true" alt="Visitas al perfil" hspace="5">
   </a>
 </p>
 
