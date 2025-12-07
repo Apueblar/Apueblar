@@ -40,10 +40,10 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-**Lenguajes:** `Solidity`, `Java`, `Python`, `Swift`, `SQL`, `CSS`, `JS`, `Spring Boot`, `C`, `C++`, `C#`, `Matlab`, ...
-**Idiomas:** `🇪🇸`, `🇬🇧`
-**Herramientas:** `Git`, `GitHub`, `MobaXterm`, `Blender`, `Cura`, `IntelliJ IDEA`, `Wireshark`, `StarUML`, ...
-**Áreas de Interés:** Criptografía ₿, Ciberseguridad e Inteligencia Artificial
+**Lenguajes:** `Solidity`, `Java`, `Python`, `Swift`, `SQL`, `CSS`, `JS`, `Spring Boot`, `C`, `C++`, `C#`, `Matlab`, ...  
+**Idiomas:** `🇪🇸`, `🇬🇧`  
+**Herramientas:** `Git`, `GitHub`, `MobaXterm`, `Blender`, `Cura`, `IntelliJ IDEA`, `Wireshark`, `StarUML`, ...  
+**Áreas de Interés:** Criptografía ₿, Ciberseguridad e Inteligencia Artificial  
 
 ---
 
@@ -51,10 +51,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Apueblar&theme=transparent&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&border=03045E&dates=00B4D8&ring=0077B6&currStreakLabel=023E8A&sideLabels=023E8A&stroke=03045E&fire=FB8500&sideNums=FFB703&currStreakNum=FFB703" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apueblar&layout=compact" alt="Most Used Languages">
 </p>
 
 ---
