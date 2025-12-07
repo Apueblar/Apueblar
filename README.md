@@ -40,8 +40,9 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-**Lenguajes:** `Solidity`, `Java`, `Python`, `🇪🇸`, `🇬🇧`, `SQL`, `C`, `C++`, `C#`, `Matlab`  
-**Herramientas:** `Git`, `GitHub`, `MobaXterm`, `Blender`, `Cura`  
+**Lenguajes:** `Solidity`, `Java`, `Python`, `Swift`, `SQL`, `CSS`, `JS`, `Spring Boot`, `C`, `C++`, `C#`, `Matlab`, ...
+**Idiomas:** `🇪🇸`, `🇬🇧`
+**Herramientas:** `Git`, `GitHub`, `MobaXterm`, `Blender`, `Cura`, `IntelliJ IDEA`, `Wireshark`, `StarUML`, ...
 **Áreas de Interés:** Criptografía ₿, Ciberseguridad e Inteligencia Artificial
 
 ---
